@@ -1,0 +1,110 @@
+@charset "utf-8";
+/* CSS Document */
+img, a img { border: 0px; }
+
+.social {
+	margin:0px 0px 0px 0px;
+}
+
+body {
+	font-family:Helvetica, Arial, sans-serif;
+	font-size: 12px;
+}
+
+#container {
+	height:100%;
+}
+
+h1 {
+	font-size: 175%;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+
+h2 {
+	font-size: 150%;
+	font-weight: bold;
+}
+
+h3 {
+	font-size: 125%;
+}
+
+.content-area {
+	width: 800 px;
+	margin-left:25%;
+}
+
+.dark {
+	margin: 0px 0px 0px 0px;
+	padding-top: 5px;
+	padding-bottom:5px;
+	width: 100%;
+	background-color:#2c3e50;
+	clear:both;
+}
+
+.green {
+	margin: 0px 0px 0px 0px;
+	padding-top: 5px;
+	padding-bottom:5px;
+	width: 100%;
+	background-color:#27ae60;
+	clear:both;
+}
+ .green-foot {
+	margin: 0px 0px 0px 0px;
+	padding-top: 5px;
+	padding-bottom:5px;
+	width: 100%;
+	background-color:#27ae60;
+	clear:both;
+	height:200px;
+}
+
+.copy-text {
+	font-size: 80%;
+	color: #FFFFFF;
+	text-align:start;
+}
+
+#menu {
+	margin-top: 10px;
+	margin-right: 10px;
+	margin-left: 0px;
+	margin-bottom: 10px;
+	padding: 5px 5px 5px 5px;
+	background-color: #27ae60;
+	width: 300px;
+	float:left;
+}
+
+#menu div, #menu h3, .footer-equal h3, .footer-equal p {
+	color: #FFFFFF;
+}
+
+.menu-but {
+	font-size: 110%;
+	padding: 8px 8px 8px 8px;
+	background-color:#27ae60;
+}
+
+.menu-but a {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+.menu-but a:hover {
+	color: #FFFFFF;
+	text-decoration: underline;
+}
+
+.menu-but:hover {
+	background-color:#279960;
+}
+
+.footer-equal {
+	float: left;
+	width: 260px;
+	margin-right:6px;
+}
